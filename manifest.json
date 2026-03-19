@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Brave Graphite Premium",
+  "version": "1.0.0",
+  "theme": {
+    "colors": {
+      "frame": [12, 13, 14],
+      "frame_inactive": [18, 18, 19],
+
+      "toolbar": [36, 37, 40],
+      "bookmark_text": [228, 228, 228],
+
+      "tab_background_text": [158, 158, 164],
+      "tab_text": [245, 245, 245],
+
+      "ntp_background": [26, 27, 30],
+      "ntp_text": [245, 245, 245],
+
+      "button_background": [36, 37, 40],
+
+      "omnibox_background": [34, 36, 39],
+      "omnibox_text": [205, 210, 218],
+      "omnibox_border": [78, 78, 84],
+
+      "omnibox_results_bg": [34, 36, 39],
+      "omnibox_results_text": [230, 230, 230],
+      "omnibox_results_text_selected": [255, 255, 255],
+      "omnibox_results_bg_selected": [60, 62, 66]
+    },
+    "properties": {
+      "color_scheme": "dark"
+    }
+  }
+}
